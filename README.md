@@ -1,6 +1,6 @@
 # Middleware about CORS in Lumen/PHP
 
-  - Only get the file and put in ´app/Http/Middleware`
+  - Only get the file and put in `app/Http/Middleware/`
   - To use, follow these steps:
     • uncomment these linrd in file `bootstrap/app.php`:
       ```php
